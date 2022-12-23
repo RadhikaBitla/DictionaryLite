@@ -75,7 +75,7 @@ public class HelloApplication extends Application {
 
 
         Label suggestions=new Label();
-        suggestions.setText("Suggestions for you:");
+        suggestions.setText("Suggestions:");
         suggestions.setTranslateX(10);
         suggestions.setTranslateY(110);
 
