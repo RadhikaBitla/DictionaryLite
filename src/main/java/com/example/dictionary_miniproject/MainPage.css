@@ -1,0 +1,14 @@
+.button {
+-fx-border-color:black;
+-fx-border-width: 3 3 3 3 ;
+}
+.button .text {
+-fx-fill:black;
+ }
+.button:hover .text{
+-fx-fill: grey ;
+
+
+ }
+ .button:hover {
+ -fx-border-color: grey ;
